@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+button{
+  cursor: pointer;
+}
+.imgs11{
+  background-image: url('./Assets/blog-header-image.jpg');
+  width: 635px;
+  height: 317px;
+  border-radius: 6px;
+  background-size: cover;
+}
+a::selection{
+background-color: #F1C111;
+}
+h1::selection{
+  background-color: #F1C111;
+}
+h4::selection{
+  background-color: #F1C111 !important;
+}
+h3::selection{
+  background-color: #F1C111;
+}
+h2::selection{
+  background-color: #F1C111;
+}
+h5::selection{
+  background-color: #F1C111;
+}
+p::selection{
+  background-color: #F1C111;
+}
+a::selection{
+  background-color: #F1C111;
+}
+li::selection{
+  background-color: #F1C111;
+}
+span::selection{
+  background-color: #F1C111;
+}
+strong::selection{
+  background-color: #F1C111;
+}
+i::selection{
+  background-color: #F1C111;
+}
+button::selection{
+  background-color: #F1C111;
+}
